@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AstroQuanta, Raj Bhattacherjee, 2nd year undergrad student of BITS Pilani, of Physics and EEE.
-- 👀 I’m interested in Theoretical Particle Physics and beyond Standard Model (basically which tries to explain everything around us) along with to play with Abstract Mathematics, and Quantum Computing and at last bringing all together.
-- 🌱 I’m currently learning Algebraic structures, Clifford Algebra, Exterior Algebra and so on... and as always Physics.
-- 💞️ I’m looking to collaborate on who applies Quantum Computing in Particle Physics
+- 👋 Hi, I’m @AstroQuanta, Raj Bhattacherjee, undergrad student of BITS Pilani, pursuing M.Sc. Physics and B.E. EEE.
+- 👀 I’m interested in category theory and its application to theoretical physics.
 - 📫 How to reach me ... Email: f20220877@pilani.bits-pilani.ac.in
 
 <!---
